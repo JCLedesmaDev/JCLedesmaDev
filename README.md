@@ -84,12 +84,11 @@ Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabaj
 
 # 📫 Podes encontrarme en
 <li>Web: <a href="https://jcledesmadev.github.io/Portafolio/">https://jcledesmadev.github.io/Portafolio/</a></li>
-
-<li>
+<li style="display:flex; alignItems:center">
    <img 
      align="center" 
      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-     alt="juan cruz ledesma" height="20" width="30" 
+     alt="juan cruz ledesma" height="30" width="40" 
   />
   Linkedin: <a href="https://www.linkedin.com/in/juan-cruz-ledesma/" target="_blank">/in/juan-cruz-ledesma/</a>
 </li>
@@ -98,7 +97,10 @@ Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabaj
 <li>Gmail: <a href="mailto:juanledesma6040@gmail.com" target="_blank">juanledesma6040@gmail.com</a></li>
 
 <p align="left">
-
+  <a href="https://www.linkedin.com/in/ivan-dupuy/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan  dupuy" height="30" width="40" />
+  </a>
+  
   <a href="https://instagram.com/dupuyaguss" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dupuyaguss" height="30" width="40" />
   </a>
