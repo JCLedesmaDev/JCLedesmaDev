@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hola!, me llamo Juan Cruz! </h1>
-<h3 align="center">Un apasionado Desarrollador Full Stack de Cordoba Capita, Argentina</h3>
+<h3 align="center">Un apasionado Desarrollador Full Stack de Cordoba Capital, Argentina</h3>
 
 <img align='center' src="https://i.postimg.cc/Jz3j0s11/Avatar-cutted.png" width="200">
 
