@@ -81,8 +81,6 @@ Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabaj
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaAndreani&layout=compact&theme=dracula)](https://github.com/LautaAndreani)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaAndreani&layout=compact&theme=dracula)](https://github.com/LautaAndreani)
-
 
 # 📫 Podes encontrarme en
 <li>Web: <a href="https://jcledesmadev.github.io/Portafolio/">https://jcledesmadev.github.io/Portafolio/</a></li>
