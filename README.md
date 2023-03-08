@@ -2,11 +2,12 @@
 
 
 <h1 align="center">Hola!, me llamo Juan Cruz! </h1>
-<h3 align="center">Un apasionado Desarrollador Full Stack de Cordoba Capital, Argentina</h3>
+<h3 align="center">Un apasionado <code>Desarrollador Full Stack</code> de Cordoba Capital, Argentina</h3>
 
 <img align='center' src="https://i.postimg.cc/Jz3j0s11/Avatar-cutted.png" width="200">
 
-Soy Lautaro, desarrollador <code>frontend</code>. Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabajado. El stack que utilizo en estos momentos es <strong>ReactJs, Firebase, ChakraUi</strong> y me encuentro ampliando conocimientos en <strong>NextJs y Typescript</strong>.
+Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabajado. El stack que utilizo en estos momentos es <strong>MERN, MEVN</strong> y me encuentro ampliando conocimientos en <strong>NodeJS y ExpressJS</strong>.
+
 <br/> 
 <br/> 
 
