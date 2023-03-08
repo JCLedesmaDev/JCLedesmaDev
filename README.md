@@ -85,6 +85,6 @@ Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabaj
 
 
 # 📫 Podes encontrarme en
-<li>Web: <a href="https://lautaroandreani.vercel.app/">https://lautaroandreani.vercel.app/</a></li>
-<li>Linkedin: <a href="https://www.linkedin.com/in/lautaroandreani" target="_blank">linkedin.com/in/lautaroandreani</a></li>
-<li>Gmail: <a href="mailto:lautaroandreani2016@gmail.com" target="_blank">lautaroandreani2016@gmail.com</a></li>
+<li>Web: <a href="https://jcledesmadev.github.io/Portafolio/">https://jcledesmadev.github.io/Portafolio/</a></li>
+<li>Linkedin: <a href="https://www.linkedin.com/in/juan-cruz-ledesma/" target="_blank">/in/juan-cruz-ledesma/</a></li>
+<li>Gmail: <a href="mailto:juanledesma6040@gmail.com" target="_blank">juanledesma6040@gmail.com</a></li>
