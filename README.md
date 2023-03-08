@@ -10,8 +10,8 @@ Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabaj
 
 
 # Lenguajes y herramientas
-![html5](https://user-images.githubusercontent.com/79154442/129495029-6151ef2d-cbc5-4486-a987-40cea4646a19.png) 
-![css-3](https://user-images.githubusercontent.com/79154442/129495020-c5875d87-f42b-4706-84ec-b608bd5dd218.png) 
+![html5](https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/html.svg) 
+![css-3](https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/css.svg) 
 ![bs](https://user-images.githubusercontent.com/79154442/129495172-26a76c85-408a-4d94-92e5-c2251e8ef0ca.png)  
 ![sass](https://user-images.githubusercontent.com/79154442/130335374-a6126eee-f103-4068-8376-a2bce6ce7c29.png) 
 ![js](https://user-images.githubusercontent.com/79154442/129495190-46fafc59-880d-4377-8994-512b483ff667.png) 
