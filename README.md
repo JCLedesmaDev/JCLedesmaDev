@@ -6,8 +6,6 @@
 
 <img align='center' src="https://i.postimg.cc/Jz3j0s11/Avatar-cutted.png" width="200">
 
-<strong>¡Hola!</strong> 👋
-
 Soy Lautaro, desarrollador <code>frontend</code>. Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabajado. El stack que utilizo en estos momentos es <strong>ReactJs, Firebase, ChakraUi</strong> y me encuentro ampliando conocimientos en <strong>NextJs y Typescript</strong>.
 <br/> 
 <br/> 
