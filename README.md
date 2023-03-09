@@ -104,13 +104,6 @@ Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabaj
 
 <br/>
 
-🌱 Adentrandome en:
-
-<br/>
-
-![fire](https://user-images.githubusercontent.com/79154442/140981093-c6d80223-d0e3-41b6-94bf-4bfb446c80ad.png)
-![nextjs](https://user-images.githubusercontent.com/79154442/149329989-3792570f-90be-4d22-907b-6a8959c03cca.png)
-![typescript](https://user-images.githubusercontent.com/79154442/149329899-645edab0-a9f3-44d6-bb3a-350de4028a59.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaAndreani&layout=compact&theme=dracula)](https://github.com/LautaAndreani)
 
