@@ -16,21 +16,53 @@ Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabaj
     <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/html.svg" alt="html" width="40" height="40"/> 
   </a> 
   
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <a href="#" target="_blank"> 
+    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/css.svg" alt="css" width="40" height="40"/> 
   </a> 
   
-  <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  
-  <a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  <a href="#" target="_blank"> 
+    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/js.svg" alt="js" width="40" height="40"/> 
   </a> 
   
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <a href="#" target="_blank"> 
+    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/react.svg" alt="react" width="40" height="40"/> 
   </a> 
+  
+ <a href="#" target="_blank"> 
+    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/ionic.svg" alt="ionic" width="40" height="40"/> 
+  </a> 
+  
+  <a href="#" target="_blank"> 
+    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/zustand.svg" alt="zustand" width="40" height="40"/> 
+  </a> 
+  
+  <a href="#" target="_blank"> 
+    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/vue.svg" alt="vue" width="40" height="40"/> 
+  </a> 
+  
+<a href="#" target="_blank"> 
+    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/quasar.svg" alt="quasar" width="40" height="40"/> 
+  </a> 
+  
+  <a href="#" target="_blank"> 
+    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/angular.svg" alt="angular" width="40" height="40"/> 
+  </a> 
+  
+  <a href="#" target="_blank"> 
+    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/blazor.svg" alt="blazor" width="40" height="40"/> 
+  </a> 
+  
+    <a href="#" target="_blank"> 
+    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/jquery.svg" alt="jquery" width="40" height="40"/> 
+  </a> 
+  
+  
+  
+  
+  
+  
+  
+  
   
   <a href="https://heroku.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
