@@ -56,10 +56,6 @@ Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabaj
     <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/jquery.svg" alt="jquery" width="40" height="40"/> 
   </a> 
   
-  <a href="#" target="_blank"> 
-    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/back/entity.png" alt="entityFramework" width="40" height="40"/> 
-  </a> 
-  
   <a href="https://firebase.google.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>
