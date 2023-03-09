@@ -4,7 +4,7 @@
 <h1 align="center">Hola!, me llamo Juan Cruz! </h1>
 <h3 align="center">Un apasionado <code>Desarrollador Full Stack</code> de Cordoba Capital, Argentina.</h3>
 
-<img align='center' src="https://i.postimg.cc/Jz3j0s11/Avatar-cutted.png" width="200">
+<img align='center' src="https://i.pinimg.com/236x/d6/dd/bb/d6ddbb44a95664319a84aeb042e21fdf.jpg" width="200">
 
 Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabajado. El stack que utilizo en estos momentos es <strong>MERN, MEVN</strong> y me encuentro ampliando conocimientos en <strong>NodeJS y ExpressJS</strong>.
 
