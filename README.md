@@ -33,15 +33,15 @@ Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabaj
   </a> 
   
   <a href="#" target="_blank"> 
-    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/zustand.svg" alt="zustand" width="40" height="40"/> 
+    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/zustand.png" alt="zustand" width="40" height="40"/> 
   </a> 
   
   <a href="#" target="_blank"> 
     <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/vue.svg" alt="vue" width="40" height="40"/> 
   </a> 
   
-<a href="#" target="_blank"> 
-    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/quasar.svg" alt="quasar" width="40" height="40"/> 
+  <a href="#" target="_blank"> 
+    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/quasar.png" alt="quasar" width="40" height="40"/> 
   </a> 
   
   <a href="#" target="_blank"> 
@@ -52,7 +52,7 @@ Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabaj
     <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/blazor.svg" alt="blazor" width="40" height="40"/> 
   </a> 
   
-    <a href="#" target="_blank"> 
+  <a href="#" target="_blank"> 
     <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/jquery.svg" alt="jquery" width="40" height="40"/> 
   </a> 
   
