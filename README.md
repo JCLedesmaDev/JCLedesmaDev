@@ -77,11 +77,11 @@ Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabaj
   </a> 
   
   <a href="#" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressJS" width="40" height="40"/> 
+    <img src="https://miro.medium.com/v2/resize:fit:1400/0*L3Spf8jWYvDlbgw-.png" alt="expressJS" width="40" height="40"/> 
   </a> 
   
   <a href="#" target="_blank"> 
-    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/back/mongodb.svg" alt="mongoDB" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReE5W65Y_Wcq2iK1nlpieJyOjoLuUns4ZmtY6V8V-85YlPHUKBzQAIfjlDqJgPCkqkyXg&usqp=CAU" alt="mongoDB" width="40" height="40"/> 
   </a> 
   
   <a href="#" target="_blank"> 
