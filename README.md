@@ -1,7 +1,7 @@
 ![barpng](https://user-images.githubusercontent.com/79154442/137824292-a74c224b-17db-48ec-8a80-de981a78e51d.png)
 
 
-<h1 align="center">Hola!, me llamo Juan Cruz! </h1>
+<h1 align="center">Hola! Me llamo Juan Cruz! </h1>
 <h3 align="center">Un apasionado <code>Desarrollador Full Stack</code> de Cordoba Capital, Argentina.</h3>
 
 <img align='center' src="https://i.postimg.cc/Jz3j0s11/Avatar-cutted.png" width="200">
