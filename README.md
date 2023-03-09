@@ -56,11 +56,37 @@ Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabaj
     <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/jquery.svg" alt="jquery" width="40" height="40"/> 
   </a> 
   
+  <a href="#" target="_blank"> 
+    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/back/entity.png" alt="entityFramework" width="40" height="40"/> 
+  </a> 
+  
+  <a href="#" target="_blank"> 
+    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/back/node.png" alt="nodeJS" width="40" height="40"/> 
+  </a> 
+  
+  <a href="#" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressJS" width="40" height="40"/> 
+  </a> 
+  
+  <a href="#" target="_blank"> 
+    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/back/mongodb.svg" alt="mongoDB" width="40" height="40"/> 
+  </a> 
+  
+  <a href="#" target="_blank"> 
+    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/back/net.png" alt="netCore" width="40" height="40"/> 
+  </a> 
+  
+  <a href="#" target="_blank"> 
+    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/back/entity.png" alt="entityFramework" width="40" height="40"/> 
+  </a> 
+
+  <a href="#" target="_blank"> 
+    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/back/sqlserver.png" alt="sqlServer" width="40" height="40"/> 
+  </a> 
   
   
   
-  
-  
+  <br/>
   
   
   
