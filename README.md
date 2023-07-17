@@ -45,10 +45,6 @@ Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabaj
   </a> 
   
   <a href="#" target="_blank"> 
-    <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/angular.svg" alt="angular" width="40" height="40"/> 
-  </a> 
-  
-  <a href="#" target="_blank"> 
     <img src="https://github.com/JCLedesmaDev/Portafolio/blob/master/src/Static/skills/front/blazor.svg" alt="blazor" width="40" height="40"/> 
   </a> 
   
